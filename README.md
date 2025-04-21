@@ -14,3 +14,8 @@ Vite for fast development and build processes.
     npm i
     npm run dev
     use http://localhost:5173/
+
+
+
+
+![cc](https://github.com/user-attachments/assets/7adde740-a1bd-451e-9001-d0affdea3cdb)
